@@ -24,6 +24,13 @@ Esta é a API oficial do aplicativo **Adote**, desenvolvida com **Node.js** e **
 
 ## Estrutura do Projeto
 
-src/ ├── app.js             # Configuração do Express ├── server.js          # Inicialização do servidor ├── routes.js          # Definição das rotas ├── controllers/       # Lógica das requisições ├── database/          # Migrações, seeds e conexão com o banco ├── middleware/        # Autenticação e validações └── modules/           # Funcionalidades específicas
+src/ 
+├── app.js             # Configuração do Express 
+├── server.js          # Inicialização do servidor 
+├── routes.js          # Definição das rotas 
+├── controllers/       # Lógica das requisições 
+├── database/          # Migrações, seeds e conexão com o banco 
+├── middleware/        # Autenticação e validações 
+└── modules/           # Funcionalidades específicas
 
 ---
